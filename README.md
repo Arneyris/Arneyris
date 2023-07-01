@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonid</h1>
-<h3 align="center">A passionate IT student from Estonia</h3>
+<h3 align="center">A graduated IT student from Estonia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arneyris&label=Visitors&color=ff9898&style=plastic" alt="arneyris" /> </p>
 
